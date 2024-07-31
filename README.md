@@ -21,23 +21,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Assitente Virtual com dicas para criação de dogs
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto tem como objetivo criar varios videos com tutoriais sobre dicas na criação de cachorros dentre, comidas preferidas,exercicios,brinquedos,pricipais doenças caninas e muito mais.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+GPT3.5 para criação de texto com um prompt detalhado sobre os principais topicos a ser considerado na criação de cachorros.
+Postman para usar a API do GPT 3.5 e criar o audio com o Create speech.
+D-ID para criar o avatar e indexação do audio
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Todo o conteudo foi gerado por IA desde o texto baseado em prompt, o postman para a geração do texto e audio eo D-ID para criação de avatar e indexação de audio
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como resultado obtive um video e avatar que explica o conceito basico para criação de cachorros.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
+Os maiores desafios ainda posso considerar a qualidade dos produto gerado, algumas limitações referente ao comportamento humano, gestual, sotaque, mas nada que a curto prazo não seja resolvido pelas empresas de IA.
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
@@ -49,3 +51,6 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+##Link do Projeto.
+https://studio.d-id.com/share?id=3fdc536acfa64d3c9350d2c4a5680843&utm_source=copy
